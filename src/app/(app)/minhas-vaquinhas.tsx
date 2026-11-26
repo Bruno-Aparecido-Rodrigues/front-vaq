@@ -64,7 +64,7 @@ export default function MinhasVaquinhas() {
                     <View style={{ flexShrink: 1 }}>
                         <View style={styles.sobretitulo}>
                             <Icon name="spa" size={18} color={Colors.secondary} />
-                            <Text style={styles.sobretituloTexto}>PAINEL DO ORGANIZADOR</Text>
+                            <Text style={styles.sobretituloTexto}>PAINEL</Text>
                         </View>
                         <Text style={styles.h1}>Minhas Campanhas</Text>
                         <Text style={styles.subtitulo}>Gerencie suas arrecadações, acompanhe as metas e atualize seus apoiadores.</Text>

@@ -97,7 +97,7 @@ export default function LoginCadastro() {
                     <View style={styles.topo}>
                         <View style={styles.marca}>
                             <LogoBadge size={44} />
-                            <Text style={styles.marcaNome}>Muuv</Text>
+                            <Text style={styles.marcaNome}>Teste do Vercel</Text>
                         </View>
                         <Text style={styles.tagline}>
                             A plataforma de apoio coletivo feita com gentileza, transparência e acolhimento mútuo.
